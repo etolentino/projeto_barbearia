@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Arquivos para ignorar
+chave-teste-api.txt
+senhas.txt
+implementacao-teste-db.txt
